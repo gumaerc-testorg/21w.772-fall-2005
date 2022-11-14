@@ -34,7 +34,9 @@
   },
   "course_title": "Digital Poetry",
   "course_description": "This class investigates theory and practice of digital or new media poetry with emphasis on workshop review of digital poetry created by students.\u00a0Each week students examine published examples of digital poetry in a variety of forms including but not limited to soundscapes, hypertext poetry, animation, code poems, interactive games, location-based poems using handheld devices, digital video and wikis.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "",
   "primary_course_number": "21W.772",
   "course_image_thumbnail": {
@@ -42,6 +44,7 @@
     "website": "21w-772-digital-poetry-fall-2005"
   },
   "learning_resource_types": [],
-  "site_uid": "1c9cf69f-661a-4ad7-a492-194cb99b4b1e",
+  "site_uid": "dada02b6-ef51-4f88-8f83-1e22b5acb51b",
+  "short_id": "21w.772-fall-2005",
   "title": "Course Metadata"
 }
