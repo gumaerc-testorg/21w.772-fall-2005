@@ -21,13 +21,13 @@ Mathews, Harry, and Alastair Brotchie, eds. _Oulipo Compendium_. London, UK: Exa
 Recommended Readings
 --------------------
 
-{{% resource_link "a9a9f43f-19d5-47c0-a2b4-9e5c0f606ab4" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Bolter, Jay, and Richard Grusin. {{% resource_link "a9a9f43f-19d5-47c0-a2b4-9e5c0f606ab4" "_Remediation: Understanding New Media_" %}}. Cambridge, MA: MIT Press, 2000. ISBN: 9780262522793.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262522793) Bolter, Jay, and Richard Grusin. [_Remediation: Understanding New Media_](https://mitpress.mit.edu/9780262522793). Cambridge, MA: MIT Press, 2000. ISBN: 9780262522793.
 
-{{% resource_link "286d08d5-c173-421e-bdbb-f068afd09676" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Manovich, Lev. {{% resource_link "286d08d5-c173-421e-bdbb-f068afd09676" "_The Language of New Media_" %}} . Cambridge, MA: MIT Press, 2001. ISBN: 9780262133746.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262133746) Manovich, Lev. [_The Language of New Media_](https://mitpress.mit.edu/9780262133746) . Cambridge, MA: MIT Press, 2001. ISBN: 9780262133746.
 
-{{% resource_link "b40edee2-8d55-40b9-af55-a73190fab57e" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Stone, Allucquere Rosanne. {{% resource_link "b40edee2-8d55-40b9-af55-a73190fab57e" "_The War of Desire and Technology at the Close of the Mechanical Age_" %}}. Cambridge, MA: MIT Press, 1995. ISBN: 9780262193627.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262193627) Stone, Allucquere Rosanne. [_The War of Desire and Technology at the Close of the Mechanical Age_](https://mitpress.mit.edu/9780262193627). Cambridge, MA: MIT Press, 1995. ISBN: 9780262193627.
 
-{{% resource_link "9011aef0-ac45-49de-87c9-702b02bfefeb" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Wardrip-Fruin, Noah, and Nick Montfort. {{% resource_link "9011aef0-ac45-49de-87c9-702b02bfefeb" "_The New Media Reader_" %}}. Cambridge, MA: MIT Press, 2003. ISBN: 9780262232272.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262232272) Wardrip-Fruin, Noah, and Nick Montfort. [_The New Media Reader_](https://mitpress.mit.edu/9780262232272). Cambridge, MA: MIT Press, 2003. ISBN: 9780262232272.
 
 {{< anchor "readings" >}}{{< /anchor >}}Readings by Session
 -----------------------------------------------------------
